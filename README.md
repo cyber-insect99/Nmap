@@ -181,6 +181,6 @@ Finding live host in a local area networks
 • nmap -p- -sA 192.168.43.204 –v
 ```
 
-All credits goes to @cyber bangal
+All credits goes to @cyber bangla
 
   ![Logo](https://cdn.icon-icons.com/icons2/2148/PNG/512/nmap_icon_132152.png   )
